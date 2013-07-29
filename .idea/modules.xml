@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GitBash/GitBash.iml" filepath="$PROJECT_DIR$/GitBash/GitBash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntellijIDEA/IntellijIDEA.iml" filepath="$PROJECT_DIR$/IntellijIDEA/IntellijIDEA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maven/Maven.iml" filepath="$PROJECT_DIR$/Maven/Maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notepad++/Notepad++.iml" filepath="$PROJECT_DIR$/Notepad++/Notepad++.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TotalCommander/TotalCommander.iml" filepath="$PROJECT_DIR$/TotalCommander/TotalCommander.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,15 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="6">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="774" startPos="0" endPos="0" selMode="0" lang="Normal Text" encoding="-1" filename="C:\apps\Notepad++\change.log" />
+            <File firstVisibleLine="89" xOffset="0" scrollWidth="916" startPos="2777" endPos="2777" selMode="0" lang="Normal Text" encoding="-1" filename="D:\ccd\workshop\workshop.txt" />
+            <File firstVisibleLine="45" xOffset="0" scrollWidth="1136" startPos="1581" endPos="1581" selMode="0" lang="Properties" encoding="-1" filename="C:\dev\IntellijIDEA\bin\idea.properties" />
+            <File firstVisibleLine="11" xOffset="0" scrollWidth="1179" startPos="320" endPos="320" selMode="0" lang="XML" encoding="-1" filename="C:\dev\sonar\war\build.xml" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="668" startPos="0" endPos="0" selMode="0" lang="Shell" encoding="-1" filename="C:\dev\sonar\war\build-war.sh" />
+            <File firstVisibleLine="40" xOffset="0" scrollWidth="1316" startPos="1938" endPos="1938" selMode="0" lang="Properties" encoding="-1" filename="C:\dev\sonar\conf\sonar.properties" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1010" startPos="1240" endPos="1240" selMode="0" lang="Java" encoding="-1" filename="D:\ccd\workshop\jenkins\core\src\main\java\jenkins\AgentProtocol.java" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="882" startPos="0" endPos="0" selMode="0" lang="Normal Text" encoding="-1" filename="C:\dev\maven\NOTICE.txt" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>

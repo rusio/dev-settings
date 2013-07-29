@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="EclipseCodeFormatter">
+    <option name="defaultSettings" value="true" />
+    <option name="formatter" value="ECLIPSE" />
+    <option name="id" value="1374791418347" />
+    <option name="name" value="default" />
+    <option name="pathToConfigFileJava" value="D:/Copy/lindenbaum-conventions/lindenbaum-helios-formatter.xml" />
+    <option name="selectedJavaProfile" value="lindenbaum-helios" />
+  </component>
+  <component name="EclipseCompilerSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-encoding UTF-8" />
+  </component>
+  <component name="IdProvider" IDEtalkID="4F4A8265E9BFBB64E3AC4C0F742C9CAA" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
+
